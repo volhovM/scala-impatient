@@ -4,6 +4,7 @@ package classes
  * @author volhovm
  *         Created on 6/2/14
  */
+
 class Time(hrs: Int, min: Int) {
   var totalMinutes: Int = -1
   if (hrs >= 0 && hrs < 24)
