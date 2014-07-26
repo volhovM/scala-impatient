@@ -1,4 +1,4 @@
-package classes
+package chap5
 
 /**
  * @author volhovm
