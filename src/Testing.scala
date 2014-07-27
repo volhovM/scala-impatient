@@ -7,7 +7,7 @@ import chap7._
  *         Created on 7/4/14
  */
 
-object testing extends App{
+object Testing extends App{
   println(new Time(12,30).before(new Time(23,40)))
   println(Point(2,3))
   println(CardSuit.values.toList.map(CardSuit.isRed))
